@@ -1,0 +1,47 @@
+{
+    "title": "Estate Planning Seminar at East Bradenton", 
+    "image1-top":{
+        "link": "https://church.us8.list-manage.com/track/click?u=b06e0327a4c18425bbfdede3a&id=08f4109fdf&e=cfe92327be",
+        "image": "https://ci4.googleusercontent.com/proxy/XaTgYudVWlIxRkXlTHjJKDQp87SsTNoHD9n7Kyc17ijsVADq2MBR4oIqdtBr5XRzvYuhn8-NUppyp8SbdvXYbwRoJDBivXcMD7cLIEAsuPoJauAoHgceKr1TfyG1IF8QCvl8Z2Lwd4Xy03aS-AWjAztyfLkUd2zwivTz8A=s0-d-e1-ft#https://mcusercontent.com/b06e0327a4c18425bbfdede3a/_compresseds/c43fe3e1-ac2f-454c-9f5b-1529d0ddc86a.jpg" 
+    }, 
+
+    "image1-bottom":{
+        "link": "https://church.us8.list-manage.com/track/click?u=b06e0327a4c18425bbfdede3a&id=27856fc0f4&e=cfe92327be",
+        "image": "https://ci6.googleusercontent.com/proxy/AfSlitpDAgNeRMjcd-wjTRfW4udMt8dbdhHkXNq-ZZyGoLswkoprTRFm3lWl_gD1JLFWjljYRUW5HBwtwGiO9OLwPhifrYCmqJ9L67U-Asv0PWY7LZfVUfPzzJvreizpq9pTxER2hMkQz-DttCQH_HSLZvnaDA=s0-d-e1-ft#https://mcusercontent.com/b06e0327a4c18425bbfdede3a/images/94339afa-cb23-4c66-a6c4-02c394e747ac.jpg" 
+    }, 
+
+    "image2":{
+        "link": "https://church.us8.list-manage.com/track/click?u=b06e0327a4c18425bbfdede3a&id=9dacc265dc&e=cfe92327be",
+        "image": "https://ci6.googleusercontent.com/proxy/7AuHstuPuUP-3FUgSUxgeUC0KjL-O8-HgPLSAcAsuBqgBbtcmC7U68LOdtgkt4-gAUyeyjGtOOnODzvs3DRLNVsDBCMbJoJs877_Dw2-6wfV2M4f16uldRmH6fu52odmW_yMzW3raZdj6RomJ7wGWYIlYZcP8tt11oBO-g=s0-d-e1-ft#https://mcusercontent.com/b06e0327a4c18425bbfdede3a/_compresseds/bf05242e-af83-40fd-8f9b-10f7851028fe.jpg"
+    }, 
+
+    "offers": [{
+        "location":"Cancun", 
+        "description": " 4 nights with air and Melody Maker Cancun stay. Price reflects MIA departure, other cities available.", 
+        "saveAmount": "Save up to 65%",
+        "tinyInfo": "Cheapcaribbean.com", 
+        "price": "$689+",
+        "link": "#",
+        "image": "https://i.imgur.com/tNXa13h.png"
+    },
+    {
+        "location":"China", 
+        "description": " Spend 7 nights in the heart of Beijin.", 
+        "saveAmount": "Save up to 55%",
+        "tinyInfo": "ChinaAir.com", 
+        "price": "$950+",
+        "link": "#",
+        "image": "https://i.imgur.com/O7Sif9r.jpg"
+    }, 
+    {
+        "location":"London", 
+        "description": " Visit the capital with a 5 night stay!", 
+        "saveAmount": "Save up to 60%",
+        "tinyInfo": "Londonair.com", 
+        "price": "$1200+",
+        "link": "#",
+        "image": "https://i.imgur.com/tBRiSUL.png"
+    } 
+  ]
+
+}
