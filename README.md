@@ -26,7 +26,7 @@ Project is created with:
 
 ## See the email below!
 
-[Link to HTML Newsletter Email](https://rallanvila.com/project_pages/dribbble.html)
+[Link to HTML Newsletter Email](https://rallanvila.com/project_pages/bayside.html)
 
 ## Build Commands
 
